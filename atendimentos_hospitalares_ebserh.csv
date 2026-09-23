@@ -1,0 +1,16 @@
+id_atendimento,data_entrada,hora_entrada,especialidade,prioridade_manchester,tempo_espera_min,tempo_atendimento_min,status_alta,satisfacao_paciente
+1001,2026-09-01,08:15,Clínica Geral,Pouco Urgente,45,15,Alta,4
+1002,2026-09-01,08:30,Pediatria,Muito Urgente,8,25,Internação,5
+1003,2026-09-01,08:42,Ortopedia,Urgente,35,30,Alta,3
+1004,2026-09-01,09:10,Cardiologia,Emergência,2,60,UTI,5
+1005,2026-09-01,09:25,Pediatria,Pouco Urgente,110,12,Alta,2
+1006,2026-09-01,10:05,Clínica Geral,Urgente,52,20,Alta,3
+1007,2026-09-01,10:40,Ortopedia,Pouco Urgente,95,18,Alta,4
+1008,2026-09-01,11:15,Cardiologia,Muito Urgente,9,45,Internação,4
+1009,2026-09-01,11:50,Pediatria,Pouco Urgente,125,10,Alta,2
+1010,2026-09-01,12:20,Clínica Geral,Emergência,1,50,UTI,5
+1011,2026-09-01,13:10,Ortopedia,Urgente,48,22,Alta,3
+1012,2026-09-01,14:05,Pediatria,Muito Urgente,12,30,Alta,4
+1013,2026-09-01,14:40,Pediatria,Pouco Urgente,140,15,Alta,1
+1014,2026-09-01,15:15,Clínica Geral,Pouco Urgente,85,15,Alta,3
+1015,2026-09-01,16:00,Cardiologia,Urgente,40,35,Internação,4
